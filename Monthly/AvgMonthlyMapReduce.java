@@ -1,6 +1,5 @@
 /*
- * CSE6331 Assignment 4 
- * Ravitej Urikiti 1001114648
+
  * Reference : https://github.com/deepshah22/hadoop-avg-temp/tree/master/src
  */
 
